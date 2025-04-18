@@ -1,16 +1,5 @@
 {
-  "books": [
-    {
-      "id": 1,
-      "author": "John Doe",
-      "title": "The Mysterious Island",
-      "description": "A thrilling adventure on a deserted island.",
-      "tags": ["adventure", "mystery", "classic"],
-      "genre": "Adventure",
-      "year": 1874,
-      "views": 12345,
-      "rating": 4.5
-    },
+  "filteredBooks": [
     {
       "id": 2,
       "author": "Jane Austen",

@@ -1,4 +1,3 @@
-// Validation function for book schema
 function validateBookSchema(body) {
   const schema = {
     id: "number",
@@ -19,7 +18,6 @@ function validateBookSchema(body) {
     }
   }
 
-  // Check for additional properties
   for (const key in body) {
     if (!Object.prototype.hasOwnProperty.call(schema, key)) {
       return { valid: false, error: `Unexpected property: ${key}` };
