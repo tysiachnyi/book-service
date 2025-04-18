@@ -1,0 +1,241 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "John Doe",
+      "title": "The Mysterious Island",
+      "description": "A thrilling adventure on a deserted island.",
+      "tags": ["adventure", "mystery", "classic"],
+      "genre": "Adventure",
+      "year": 1874,
+      "views": 12345,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "author": "Jane Austen",
+      "title": "Pride and Prejudice",
+      "description": "A romantic novel about manners and marriage.",
+      "tags": ["romance", "classic", "society"],
+      "genre": "Romance",
+      "year": 1813,
+      "views": 23456,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "author": "Mark Twain",
+      "title": "The Adventures of Tom Sawyer",
+      "description": "A young boy's adventures along the Mississippi River.",
+      "tags": ["adventure", "classic", "youth"],
+      "genre": "Adventure",
+      "year": 1876,
+      "views": 15000,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "author": "George Orwell",
+      "title": "1984",
+      "description": "A dystopian novel about totalitarianism.",
+      "tags": ["dystopia", "politics", "classic"],
+      "genre": "Dystopian",
+      "year": 1949,
+      "views": 30000,
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "author": "J.K. Rowling",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "description": "A young wizard's journey begins.",
+      "tags": ["fantasy", "magic", "adventure"],
+      "genre": "Fantasy",
+      "year": 1997,
+      "views": 50000,
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "author": "F. Scott Fitzgerald",
+      "title": "The Great Gatsby",
+      "description": "A story of wealth and love in the Jazz Age.",
+      "tags": ["classic", "romance", "tragedy"],
+      "genre": "Classic",
+      "year": 1925,
+      "views": 20000,
+      "rating": 4.4
+    },
+    {
+      "id": 7,
+      "author": "Herman Melville",
+      "title": "Moby Dick",
+      "description": "A captain's obsessive quest for revenge on a white whale.",
+      "tags": ["adventure", "classic", "sea"],
+      "genre": "Adventure",
+      "year": 1851,
+      "views": 12000,
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "author": "Mary Shelley",
+      "title": "Frankenstein",
+      "description": "A scientist creates a monster in this gothic novel.",
+      "tags": ["horror", "classic", "science"],
+      "genre": "Horror",
+      "year": 1818,
+      "views": 18000,
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "author": "J.R.R. Tolkien",
+      "title": "The Hobbit",
+      "description": "A hobbit's journey to reclaim a treasure guarded by a dragon.",
+      "tags": ["fantasy", "adventure", "classic"],
+      "genre": "Fantasy",
+      "year": 1937,
+      "views": 45000,
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "author": "Leo Tolstoy",
+      "title": "War and Peace",
+      "description": "A historical novel about Russian society during the Napoleonic era.",
+      "tags": ["classic", "history", "war"],
+      "genre": "Historical",
+      "year": 1869,
+      "views": 10000,
+      "rating": 4.2
+    },
+    {
+      "id": 11,
+      "author": "Harper Lee",
+      "title": "To Kill a Mockingbird",
+      "description": "A novel about racial injustice in the Deep South.",
+      "tags": ["classic", "justice", "society"],
+      "genre": "Classic",
+      "year": 1960,
+      "views": 25000,
+      "rating": 4.9
+    },
+    {
+      "id": 12,
+      "author": "Ernest Hemingway",
+      "title": "The Old Man and the Sea",
+      "description": "A story of an epic struggle between an old fisherman and a giant marlin.",
+      "tags": ["classic", "sea", "struggle"],
+      "genre": "Classic",
+      "year": 1952,
+      "views": 14000,
+      "rating": 4.5
+    },
+    {
+      "id": 13,
+      "author": "Gabriel García Márquez",
+      "title": "One Hundred Years of Solitude",
+      "description": "A multi-generational story of the Buendía family.",
+      "tags": ["magic realism", "classic", "family"],
+      "genre": "Magical Realism",
+      "year": 1967,
+      "views": 22000,
+      "rating": 4.8
+    },
+    {
+      "id": 14,
+      "author": "H.G. Wells",
+      "title": "The War of the Worlds",
+      "description": "A science fiction novel about an alien invasion.",
+      "tags": ["sci-fi", "classic", "aliens"],
+      "genre": "Science Fiction",
+      "year": 1898,
+      "views": 17000,
+      "rating": 4.4
+    },
+    {
+      "id": 15,
+      "author": "Arthur Conan Doyle",
+      "title": "The Hound of the Baskervilles",
+      "description": "A Sherlock Holmes mystery set on the moors.",
+      "tags": ["mystery", "classic", "detective"],
+      "genre": "Mystery",
+      "year": 1902,
+      "views": 19000,
+      "rating": 4.7
+    },
+    {
+      "id": 16,
+      "author": "Victor Hugo",
+      "title": "Les Misérables",
+      "description": "A story of redemption and revolution in 19th-century France.",
+      "tags": ["classic", "history", "redemption"],
+      "genre": "Historical",
+      "year": 1862,
+      "views": 21000,
+      "rating": 4.6
+    },
+    {
+      "id": 17,
+      "author": "Charles Dickens",
+      "title": "Great Expectations",
+      "description": "A coming-of-age story of an orphan named Pip.",
+      "tags": ["classic", "coming-of-age", "society"],
+      "genre": "Classic",
+      "year": 1861,
+      "views": 23000,
+      "rating": 4.5
+    },
+    {
+      "id": 18,
+      "author": "Jules Verne",
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "description": "An underwater adventure with Captain Nemo.",
+      "tags": ["adventure", "classic", "sea"],
+      "genre": "Adventure",
+      "year": 1870,
+      "views": 16000,
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "author": "Aldous Huxley",
+      "title": "Brave New World",
+      "description": "A dystopian novel about a technologically advanced society.",
+      "tags": ["dystopia", "sci-fi", "classic"],
+      "genre": "Dystopian",
+      "year": 1932,
+      "views": 28000,
+      "rating": 4.7
+    },
+    {
+      "id": 20,
+      "author": "Emily Brontë",
+      "title": "Wuthering Heights",
+      "description": "A tale of passion and revenge on the Yorkshire moors.",
+      "tags": ["classic", "romance", "tragedy"],
+      "genre": "Romance",
+      "year": 1847,
+      "views": 15000,
+      "rating": 4.4
+    },
+    {
+      "id": 50,
+      "author": "Agatha Christie",
+      "title": "Murder on the Orient Express",
+      "description": "A detective novel featuring Hercule Poirot.",
+      "tags": ["mystery", "crime", "classic"],
+      "genre": "Mystery",
+      "year": 1934,
+      "views": 54321,
+      "rating": 4.7
+    },
+    {
+      "id": 51,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925
+    }
+  ]
+}
