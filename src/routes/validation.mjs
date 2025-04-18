@@ -8,7 +8,7 @@ function validateBookSchema(body) {
   };
 
   for (const key in schema) {
-    if (!body.hasOwnProperty(key)) {
+    if (!Object.prototype.hasOwnProperty.call(body, key)) {
       return { valid: false, error: `Missing required property: ${key}` };
     }
     if (typeof body[key] !== schema[key]) {
@@ -21,7 +21,7 @@ function validateBookSchema(body) {
 
   // Check for additional properties
   for (const key in body) {
-    if (!schema.hasOwnProperty(key)) {
+    if (!Object.prototype.hasOwnProperty.call(schema, key)) {
       return { valid: false, error: `Unexpected property: ${key}` };
     }
   }

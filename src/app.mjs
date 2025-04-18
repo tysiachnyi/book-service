@@ -1,6 +1,5 @@
 import express from "express";
 import bookRouter from "./routes/book.mjs";
-import db from "./db.mjs";
 
 const app = express();
 const port = 3000;

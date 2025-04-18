@@ -46,7 +46,7 @@ router.post("/", async (req, res) => {
     await db.write();
     res.status(201).json({ message: "Book added successfully", book: body });
   } catch (error) {
-    res.status(500).json({ error: "Internal server error" });
+    res.status(500).json({ error: error });
   }
 });
 
